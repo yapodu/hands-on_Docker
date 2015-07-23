@@ -1,0 +1,4 @@
+[random-read]
+rw=randread
+size=512m
+directory=/var/log/td-agent/httpd

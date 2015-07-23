@@ -1,0 +1,4 @@
+[random-write]
+rw=randwrite
+size=512m
+directory=/var/log/td-agent/httpd
